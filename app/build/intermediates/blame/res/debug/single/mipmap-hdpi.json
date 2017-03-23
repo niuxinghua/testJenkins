@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_back.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_search_clear.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_search_clear.png"
+    }
+]

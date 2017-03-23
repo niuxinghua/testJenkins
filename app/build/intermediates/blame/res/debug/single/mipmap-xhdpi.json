@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_locate.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_locate.png"
+    },
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_clear.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_back.png",
+        "source": "C:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_back.png"
+    }
+]

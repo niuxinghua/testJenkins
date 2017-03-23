@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.android\build-cache\a413daee6d900d621d528e9e546181bcda31a35a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_051b5a520399248e9f1045b82a28f508a85cb172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.android\build-cache\daf99ee19d3cc45ef11653454821f04288e1d099\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e53c002f149dbfe1e8c8f9a2b461c3547d5a1fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_v2.3.0_20160112_e635d34fabe4746e3b07193a3a33c5d833c04cba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_6bbb80ed23beb247b2ad106a7b42ea94145d7505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.android\build-cache\01fa05081691e97680b9d3696dc959553f271907\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fb9c78b61face3ab494c2faaa54cc648c4fc80a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.android\build-cache\76f7d470214cef999f3f0cad389bd76f0be1d83b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c38ebf36c7d05b6c7a64a262bae50c358d07fd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.android\build-cache\a413daee6d900d621d528e9e546181bcda31a35a\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_f94239eb5bca789e3f29848022d9588788ecd76f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d246a04526d32f9fb6a1cf1db2b6c1267cc9374a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_39c2e72d18b1850e79c4950b7c17899bc176bd2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e7cdd52c63aa4c2dc54be6a77ac91b647c76583">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b66badb49f290df4f825a29c0a285fc229abf42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\01457173\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\01457173\Desktop\CityPicker-master\CityPicker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_bc8df452d60c08424608c213e0362947885f28b9\classes.dex" />
+    </item>
+
+</items>

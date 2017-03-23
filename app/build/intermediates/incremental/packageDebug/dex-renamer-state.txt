@@ -1,0 +1,7 @@
+#Wed Mar 22 11:34:41 CST 2017
+base.0=C\:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b66badb49f290df4f825a29c0a285fc229abf42
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d246a04526d32f9fb6a1cf1db2b6c1267cc9374a\\classes.dex
+base.1=C\:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d246a04526d32f9fb6a1cf1db2b6c1267cc9374a
+file.0=C\:\\Users\\01457173\\Desktop\\CityPicker-master\\CityPicker-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b66badb49f290df4f825a29c0a285fc229abf42\\classes.dex
